@@ -1,0 +1,5 @@
+osqp (0.6.3-1) focal; urgency=medium
+
+  * Debian package for the Gecko SCP
+
+ -- Ruben Garcia <nospam@nospam.org>  Fri, 02 Aug 2024 15:23:35 -0700

@@ -1,0 +1,6 @@
+osqp
+files
+debhelper-build-stamp
+.debhelper
+*.substvars
+*.log
