@@ -6,7 +6,7 @@ Build-Depends: debhelper-compat (= 12), cmake (>=3.2)
 Standards-Version: 4.4.1
 Homepage: https://osqp.org/
 
-Package: osqp
+Package: libosqp
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Operator Splitting Quadratic Program
