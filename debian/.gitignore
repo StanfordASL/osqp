@@ -1,4 +1,4 @@
-osqp
+libosqp
 files
 debhelper-build-stamp
 .debhelper
